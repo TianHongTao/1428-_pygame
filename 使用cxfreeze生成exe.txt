@@ -1,0 +1,4 @@
+先找到Scripts目录：
+本机为：C:\Users\THT\AppData\Local\Programs\Python\Python36-32\Scripts
+打开cmd输入命令
+cxfreeze 路径+打包程序名字 --target-dir dist 放置路径
